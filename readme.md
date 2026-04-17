@@ -70,7 +70,7 @@ This collection is meant to help explore how Rust can be used for web developmen
 Clone the repository and run any project independently:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Dvdandrades/Rust-Web-Development.git
 cd rust_web_development
 ```
 
